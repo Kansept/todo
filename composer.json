@@ -1,0 +1,17 @@
+{
+    "name": "kansept/todo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Ka",
+            "email": "kansept@ya.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+      },
+    "require": {}
+}
